@@ -1,0 +1,9 @@
+D:\Projects\Unity\Brackeys2Dplatformer\Levels\BasicStackOperations\06.TruckTour\bin\Debug\06.TruckTour.exe.config
+D:\Projects\Unity\Brackeys2Dplatformer\Levels\BasicStackOperations\06.TruckTour\bin\Debug\06.TruckTour.exe
+D:\Projects\Unity\Brackeys2Dplatformer\Levels\BasicStackOperations\06.TruckTour\bin\Debug\06.TruckTour.pdb
+D:\Projects\Unity\Brackeys2Dplatformer\Levels\BasicStackOperations\06.TruckTour\obj\Debug\06.TruckTour.csprojResolveAssemblyReference.cache
+D:\Projects\Unity\Brackeys2Dplatformer\Levels\BasicStackOperations\06.TruckTour\obj\Debug\06.TruckTour.exe
+D:\Projects\Unity\Brackeys2Dplatformer\Levels\BasicStackOperations\06.TruckTour\obj\Debug\06.TruckTour.pdb
+D:\Projects\C# Advanced\BasicStackOperations\06.TruckTour\bin\Debug\06.TruckTour.exe.config
+D:\Projects\C# Advanced\BasicStackOperations\06.TruckTour\obj\Debug\06.TruckTour.exe
+D:\Projects\C# Advanced\BasicStackOperations\06.TruckTour\obj\Debug\06.TruckTour.pdb

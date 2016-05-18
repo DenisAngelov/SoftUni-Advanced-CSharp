@@ -1,0 +1,9 @@
+D:\Projects\Unity\Brackeys2Dplatformer\Levels\BasicStackOperations\05.CalculateSequenceWithQueue\bin\Debug\05.CalculateSequenceWithQueue.exe.config
+D:\Projects\Unity\Brackeys2Dplatformer\Levels\BasicStackOperations\05.CalculateSequenceWithQueue\bin\Debug\05.CalculateSequenceWithQueue.exe
+D:\Projects\Unity\Brackeys2Dplatformer\Levels\BasicStackOperations\05.CalculateSequenceWithQueue\bin\Debug\05.CalculateSequenceWithQueue.pdb
+D:\Projects\Unity\Brackeys2Dplatformer\Levels\BasicStackOperations\05.CalculateSequenceWithQueue\obj\Debug\05.CalculateSequenceWithQueue.csprojResolveAssemblyReference.cache
+D:\Projects\Unity\Brackeys2Dplatformer\Levels\BasicStackOperations\05.CalculateSequenceWithQueue\obj\Debug\05.CalculateSequenceWithQueue.exe
+D:\Projects\Unity\Brackeys2Dplatformer\Levels\BasicStackOperations\05.CalculateSequenceWithQueue\obj\Debug\05.CalculateSequenceWithQueue.pdb
+D:\Projects\C# Advanced\BasicStackOperations\05.CalculateSequenceWithQueue\bin\Debug\05.CalculateSequenceWithQueue.exe.config
+D:\Projects\C# Advanced\BasicStackOperations\05.CalculateSequenceWithQueue\obj\Debug\05.CalculateSequenceWithQueue.exe
+D:\Projects\C# Advanced\BasicStackOperations\05.CalculateSequenceWithQueue\obj\Debug\05.CalculateSequenceWithQueue.pdb

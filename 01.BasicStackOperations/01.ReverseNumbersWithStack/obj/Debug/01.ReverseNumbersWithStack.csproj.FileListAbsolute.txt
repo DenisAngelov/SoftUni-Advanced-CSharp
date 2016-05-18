@@ -1,0 +1,1 @@
+D:\Projects\C# Advanced\BasicStackOperations\01.ReverseNumbersWithStack\bin\Debug\01.ReverseNumbersWithStack.exe.config
