@@ -1,5 +1,0 @@
-D:\Projects\C# Advanced\BasicStackOperations\03.MaximumElement\bin\Debug\03.MaximumElement.exe.config
-D:\Projects\C# Advanced\BasicStackOperations\03.MaximumElement\bin\Debug\03.MaximumElement.exe
-D:\Projects\C# Advanced\BasicStackOperations\03.MaximumElement\bin\Debug\03.MaximumElement.pdb
-D:\Projects\C# Advanced\BasicStackOperations\03.MaximumElement\obj\Debug\03.MaximumElement.exe
-D:\Projects\C# Advanced\BasicStackOperations\03.MaximumElement\obj\Debug\03.MaximumElement.pdb

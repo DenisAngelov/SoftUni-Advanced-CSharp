@@ -1,6 +1,0 @@
-D:\Projects\C# Advanced\BasicStackOperations\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe.config
-D:\Projects\C# Advanced\BasicStackOperations\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe
-D:\Projects\C# Advanced\BasicStackOperations\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.pdb
-D:\Projects\C# Advanced\BasicStackOperations\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.csprojResolveAssemblyReference.cache
-D:\Projects\C# Advanced\BasicStackOperations\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.exe
-D:\Projects\C# Advanced\BasicStackOperations\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.pdb
